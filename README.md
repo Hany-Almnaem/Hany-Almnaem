@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I’m Hany 👋
 
-<!--
-**Hany-Almnaem/Hany-Almnaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Protocol engineer working on decentralized storage, cryptographic
+verification, and privacy-preserving P2P systems.
 
-Here are some ideas to get you started:
+Contributor to Filecoin, Storacha, and libp2p-based infrastructure.
+Focused on correctness, security, and invariant-driven development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Selected work**
+- libp2p Privacy PoC — anonymous P2P overlay (Tor/I2P-inspired)
+- Storacha Marketplace — decentralized storage & verification flows
+- Multi-chain checkpointer — cross-chain state verification
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hany-Almnaem&show_icons=true&hide_title=true)
