@@ -9,7 +9,7 @@ Focused on correctness, security, and invariant-driven development.
 ---
 
 **Selected work**
-- libp2p Privacy PoC — anonymous P2P overlay (Tor/I2P-inspired)
+- libp2p-privacy-analysis-toolkit — anonymous P2P overlay (Tor/I2P-inspired)
 - Storacha Marketplace — decentralized storage & verification flows
 - Multi-chain checkpointer — cross-chain state verification
 
